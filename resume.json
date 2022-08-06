@@ -1,1 +1,29 @@
-{"titleNameMap": {"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经历","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"自我介绍"},"avatar":{"src": "https://avatars.githubusercontent.com/u/15646325?v=4","hidden":false},"profile":{"name":"柯鹏","email":"k180918@163.com","mobile":"13872062736","github":"https://github.com/Melody0918","zhihu":"","workExpYear":"","workPlace":"","positionTitle":""},"educationList":[{"edu_time":["2018.09.01","2022.06.30"],"school":"湖北大学","major":"软件工程","academic_degree":"本科","dataIndex":0}],"awardList":[{"award_info":"英语 CET6","award_time":"2020.09","dataIndex":0},{"award_info":"第十三届全国大学生数学竞赛省级与国家级二等奖","award_time":"2021.11","dataIndex":1}],"workExpList":[],"skillList":[{"skill_name":"Python","skill_desc":"","skill_level":89,"dataIndex":0},{"skill_name":"SpringBoot框架","skill_level":90,"dataIndex":1,"skill_desc":"有基于SpringBoot技术实现党建系统的项目经历"},{"skill_name":"Linux","skill_desc":"","skill_level":90,"dataIndex":2},{"skill_name":"Java爬虫技术","skill_desc":"有一定的项目经验","skill_level":80,"dataIndex":3},{"skill_name":"计算机基础","skill_level":80,"skill_desc":"数据结构，计算机组成原理，计算机网络，操作系统"}],"projectList":[{"project_name":"基于SpringBoot的党建管理系统设计与实现","project_role":"前后端负责人","project_desc":"本科毕设","project_content":"进行前台页面与后台管理的代码编写与前后端连接实现功能"}],"workList":[],"aboutme":{"aboutme_desc":"🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n    自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n    参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。\n    "},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+{"titleNameMap": 
+ {"educationList":"教育背景",
+  "workExpList":"工作经历",
+  "projectList":"项目经历",
+  "skillList":"个人技能",
+  "awardList":"更多信息",
+  "workList":"个人作品",
+  "aboutme":"自我介绍"},
+ "avatar":{"src": "https://github.com/Melody0918/blog_imgs/blob/main/avatar2.JPG","hidden":false},
+ "profile":{
+   "name":"柯鹏",
+   "email":"k180918@163.com",
+   "mobile":"13872062736",
+   "github":"https://github.com/Melody0918",
+   "zhihu":"",
+   "workExpYear":"",
+   "workPlace":"",
+   "positionTitle":""},
+ "educationList":[{
+   "edu_time":["2018.09.01","2022.06.30"],
+   "school":"湖北大学",
+   "major":"软件工程",
+   "academic_degree":"本科",
+   "dataIndex":0}],
+ "awardList":[{
+   "award_info":"英语 CET6",
+   "award_time":"2020.09",
+   "dataIndex":0},{
+     "award_info":"第十三届全国大学生数学竞赛省级与国家级二等奖","award_time":"2021.11","dataIndex":1}],"workExpList":[],"skillList":[{"skill_name":"Python","skill_desc":"","skill_level":89,"dataIndex":0},{"skill_name":"SpringBoot框架","skill_level":90,"dataIndex":1,"skill_desc":"有基于SpringBoot技术实现党建系统的项目经历"},{"skill_name":"Linux","skill_desc":"","skill_level":90,"dataIndex":2},{"skill_name":"Java爬虫技术","skill_desc":"有一定的项目经验","skill_level":80,"dataIndex":3},{"skill_name":"计算机基础","skill_level":80,"skill_desc":"数据结构，计算机组成原理，计算机网络，操作系统"}],"projectList":[{"project_name":"基于SpringBoot的党建管理系统设计与实现","project_role":"前后端负责人","project_desc":"本科毕设","project_content":"进行前台页面与后台管理的代码编写与前后端连接实现功能"}],"workList":[],"aboutme":{"aboutme_desc":"🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n    自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n    参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。\n    "},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
